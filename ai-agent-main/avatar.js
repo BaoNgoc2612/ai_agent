@@ -5,7 +5,7 @@ const convertButton = document.getElementById("convert");
 const registerAudioButton = document.getElementById("register-audio");
 const registerAvatarButton = document.getElementById("register-avatar"); // Nút đăng ký avatar
 const apiKey =
-  "3oxNk68rYTMa2GC8Wib5tCfMS1MzdwnePjIGc3Z37aK7IymXP30p-rq7YewJQZ5DE-0o4_HL_2O9ZtrTRYc1mg";
+  "YjzwqDp4QfxH4wclj1hFzG869fYNM8XaAIMt4OdKGdIExCMll0ooqLNmGZfQJsbBm_s6qyCVQ4QOv6sK3jBHvg";
 
 let selectedFile = null;
 let audioUrl = null;
